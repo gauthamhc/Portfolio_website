@@ -14616,4 +14616,10 @@ button:focus {
   .icons {
     font-size: 1.5rem;
   }
+  .flaticon-right {
+    visibility: hidden;
+  }
+  .flaticon-left {
+    visibility: hidden;
+  }
 }
